@@ -40,7 +40,7 @@ export default function Page() {
           bgImage="/images/sticker-baby-yoda.jpeg"
           id={styles.home_hero}>
           <p>
-            This is a test, I'm making changes woop woop
+            This is a test, I'&apos;m making changes woop woop
             <img src="/images/sticker-baby-yoda.jpeg"></img>
           </p>
         </Hero>
